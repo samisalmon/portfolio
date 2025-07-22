@@ -1,4 +1,4 @@
-# Sami Salmon Portfolio
+# [Sami Salmon Portfolio](https://samisalmon.github.io/portfolio/)
 
 A modern, responsive personal portfolio website built with HTML, Tailwind CSS, and vanilla JavaScript.
 
